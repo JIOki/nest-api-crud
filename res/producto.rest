@@ -1,0 +1,16 @@
+GET http://127.0.0.1:3000/producto
+
+
+#guardar
+
+POST http://127.0.0.1:3000/producto/
+
+
+
+GET http://127.0.0.1:3000/producto/1
+
+
+PATCH http://127.0.0.1:3000/producto/2
+
+
+DELETE http://127.0.0.1:3000/producto/1
